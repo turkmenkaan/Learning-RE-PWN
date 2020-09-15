@@ -12,6 +12,8 @@ Although there are many resources out there just like this one, with this reposi
 
 [Corelan.be](https://www.corelan.be/) - Contains blog posts on various topics related to RE and Binary Exploitation
 
+[LiveOverflow Binary Exploitation Playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - Collection of exploitation videos for those who are more confident learning with videos.
+
 ## Practice
 
 [Tryhackme Buffer Overflow Prep Room](https://tryhackme.com/room/bufferoverflowprep) - Tib3rius' room to practice stack based buffer overflows. Requires a THM subscription
