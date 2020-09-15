@@ -16,4 +16,4 @@ Although there are many resources out there just like this one, with this reposi
 
 ## Practice
 
-[Tryhackme Buffer Overflow Prep Room](https://tryhackme.com/room/bufferoverflowprep) - Tib3rius' room to practice stack based buffer overflows. Requires a THM subscription
+[TryHackMe Buffer Overflow Prep Room](https://tryhackme.com/room/bufferoverflowprep) - Tib3rius' room to practice stack based buffer overflows. Requires a THM subscription
