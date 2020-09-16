@@ -14,6 +14,10 @@ Although there are many resources out there just like this one, with this reposi
 
 [LiveOverflow Binary Exploitation Playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - Collection of exploitation videos for those who are more confident learning with videos.
 
+### Books
+
+[The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) - A very good introduction to exploitation. 
+
 ## Practice
 
 [TryHackMe Buffer Overflow Prep Room](https://tryhackme.com/room/bufferoverflowprep) - Tib3rius' room to practice stack based buffer overflows. Requires a THM subscription
