@@ -14,6 +14,8 @@ Although there are many resources out there just like this one, with this reposi
 
 [LiveOverflow Binary Exploitation Playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - Collection of exploitation videos for those who are more confident learning with videos.
 
+[Nightmare](https://guyinatuxedo.github.io/) - An intro to binary exploitation / reverse engineering course based around CTF challenges.
+
 ### Books
 
 [The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) - A very good introduction to exploitation.
@@ -25,3 +27,7 @@ Although there are many resources out there just like this one, with this reposi
 [TryHackMe Buffer Overflow Prep Room](https://tryhackme.com/room/bufferoverflowprep) - Tib3rius' room to practice stack based buffer overflows. Requires a THM subscription
 
 [Phoenix - exploit.education](https://exploit.education/) - This site includes various vulnerable images to help you practice some concepts. I spent some time working on Phoenix to practice binary exploitation.
+
+[pwnable.kr](http://pwnable.kr/) - Series of binary exploitation challenges
+
+
