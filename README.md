@@ -16,7 +16,8 @@ Although there are many resources out there just like this one, with this reposi
 
 ### Books
 
-[The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) - A very good introduction to exploitation. 
+[The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) - A very good introduction to exploitation.
+[Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) - A short but intense RE book.
 
 ## Practice
 
