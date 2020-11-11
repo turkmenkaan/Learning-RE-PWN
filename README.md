@@ -22,6 +22,8 @@ Although there are many resources out there just like this one, with this reposi
 
 [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) - A short but intense RE book.
 
+[Reversing - Secrets of RE](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817) - A very detailed book tailored for absolute beginners.
+
 ## Practice
 
 [TryHackMe Buffer Overflow Prep Room](https://tryhackme.com/room/bufferoverflowprep) - Tib3rius' room to practice stack based buffer overflows. Requires a THM subscription
